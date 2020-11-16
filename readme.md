@@ -1,5 +1,3 @@
-# Install denon
+# What is this?
 
-https://deno.land/x/denon
-
-> deno install --allow-read --allow-run --allow-write --allow-net -f -q --unstable https://deno.land/x/denon@2.4.0/denon.ts
+I was playing around with making an online boardgame and decided to try deno out. Deno is great, but I ran into enough issues that I abandoned this and switched back to Node. But I'm ready and waiting for Deno to be more production ready!
