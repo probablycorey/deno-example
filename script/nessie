@@ -1,0 +1,9 @@
+#!/bin/bash
+ 
+deno run \
+  --allow-net \
+  --allow-read \
+  --allow-env \
+  --allow-write \
+  "https://deno.land/x/nessie/cli.ts" \
+  $@

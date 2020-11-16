@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PORT=8080 JWT_KEY=hungry-goats-eat-food denon run --allow-net --allow-env --allow-read src/server.ts
